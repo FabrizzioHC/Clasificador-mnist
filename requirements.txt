@@ -1,4 +1,4 @@
-streamlit → interfaz web
-tensorflow → IA/MNIST
-numpy → matrices
-pillow → imágenes
+streamlit
+tensorflow
+numpy
+pillow
